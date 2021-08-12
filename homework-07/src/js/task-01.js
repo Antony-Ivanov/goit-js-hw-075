@@ -1,0 +1,1 @@
+const itemUl = document.querySelectorAll
